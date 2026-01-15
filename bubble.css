@@ -1,0 +1,31 @@
+div {
+    font-size: 2rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#div1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    
+    
+    color: white;
+}
+#div2 {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    
+    
+    color: white;
+    
+}
+#div3 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    
+    
+    color: white;
+}
